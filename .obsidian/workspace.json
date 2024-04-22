@@ -1,0 +1,321 @@
+{
+  "main": {
+    "id": "89c4281372dfc159",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9bc480e65086738",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e90dd4f0337fc23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "cf4c68a58283d15b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94c692dd3b69b140",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Canvases/202404031652.canvas",
+                "viewState": {
+                  "x": 1278.9455726880287,
+                  "y": -475.6130737446223,
+                  "zoom": -2.608429655432701
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da8d6ef586bb1644",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf5181bd853b8256",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9fc7b6213ea2900",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80757f66dc0a1985",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "drawing",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dacba6dd2d4052bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "e56a8f52c9c53815",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e72bbb1da506db78",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b12515bd86befbd",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "11f63708ae321362",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f02062b0c2201a4b",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 335.5
+  },
+  "right": {
+    "id": "6577a0ebad2dde17",
+    "type": "split",
+    "children": [
+      {
+        "id": "04583e2a1574c684",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caea9d2134172a80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Canvases/202404031652.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "746ef4b8990d687a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Canvases/202404031652.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14b683e05f87a806",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "37a924c6899b660f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Canvases/202404031652.canvas"
+              }
+            }
+          },
+          {
+            "id": "b5486fdcfb06f8ba",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "bd4a02791f7e16a1",
+            "type": "leaf",
+            "state": {
+              "type": "chatbot-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "698128f4b3185e7e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "63c73057fe0f297b",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c873233d622cb1c8",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 809.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "publish:Publish changes...": false,
+      "templater-obsidian:Templater": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "sample-plugin:Amo a Marivi": false,
+      "bmo-chatbot:BMO Chatbot": false
+    }
+  },
+  "active": "94c692dd3b69b140",
+  "lastOpenFiles": [
+    "README.md",
+    "Spaces/Home",
+    "Spaces",
+    "Canvases/202404031652.canvas",
+    "Notes/ Ratio Of Open Access To Paywalled Publications.md.md",
+    "Notes/ Willingness To Adopt New Technologies.md.md",
+    "Notes/ Willingness To Adopt New Technologies (academia).md.md",
+    "Notes/ Use Of Black Market.md.md",
+    "Notes/ Use Of Black Market Publications.md.md",
+    "Notes/ Support Of Private Sector By The State.md.md",
+    "Notes/ Subsidy Programme.md.md",
+    "Notes/ State Of Technological Adoption.md.md",
+    "Notes/ Size Of The Country.md.md",
+    "Notes/ Ratio Of Salaries To Cost Of Living.md.md",
+    "Notes/ Ratio Of Salaries To Cost Of Living (academia).md.md",
+    "Notes/ Rate Of Brain Drain.md.md",
+    "Notes/ Power Of Private Sector.md.md",
+    "Notes/ Population Size.md.md",
+    "Notes/ Popular Perception Of Government.md.md",
+    "Notes/ Popular Exports.md.md",
+    "Notes/ Popular Usage Of Crypto.md.md",
+    "Notes/ Open Source + Sharing Culture.md.md",
+    "Notes/ Most Valuable Academic Export.md.md",
+    "Notes/ Legal Precedents With IP.md.md",
+    "Notes/ Historical Examples Of Innovation.md.md",
+    "Notes/ Government Stance On Publicly Funded Science.md.md",
+    "Notes/ Government Crypto Policy.md.md",
+    "Notes/ Education Rates.md.md",
+    "Notes/CleanShot 2024-04-05 at 12.06.28@2x.png",
+    "Notes/Distribution of researchers ",
+    "Notes",
+    "Canvases",
+    "Questions",
+    "harpoon-cache.json",
+    "WERK/SynapseDAO/202312311732.canvas",
+    "202403131251.canvas",
+    "202403131606.canvas",
+    "WERK/DeSciWorld/CRM/Untitled.canvas",
+    "Proofs of Knowledge/Engrams/Engram Starter Kits/Neuron Templates/Chess kNeuron/Nerd_Dungeon_Master.canvas",
+    "Procedures/templates",
+    "Procedures",
+    "WERK/DeSciWorld/CRM/Denver",
+    "preDSW Initiation Vote.canvas",
+    "Screenshot 2024-02-18 at 02.47.13.png",
+    "meta-chart (2).png",
+    "Pasted image 20240115235134.png",
+    "Untitled.canvas",
+    "Pasted image 20231113085501.png",
+    "202312311732.canvas",
+    "202312131716.canvas",
+    "Pasted image 20240115235043.png",
+    "Pasted image 20240115234818.png",
+    "Pasted image 20240115234648.png",
+    "Pasted image 20240115234041.png",
+    "Pasted image 20240115225718.png"
+  ]
+}

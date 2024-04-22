@@ -1,0 +1,1 @@
+Salaries : Cost of Living
